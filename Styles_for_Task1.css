@@ -1,0 +1,42 @@
+@charset "windows-1251";
+
+body
+{
+    padding-top: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+ul
+{
+    list-style-type: none;
+    background-color: rgb(231, 163, 174);
+    padding: 20px;
+}
+
+li
+{
+    margin: 15px;
+    padding: 8px;
+    font-size: 20px;
+    background-color: rgb(199, 94, 111);
+    color: white;
+
+}
+
+#item_text
+{
+    background-color: rgb(158, 59, 75);
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 8px;
+    
+}
+
+#number_padding
+{
+    padding-left: 5px;
+    padding-right: 5px;
+}
